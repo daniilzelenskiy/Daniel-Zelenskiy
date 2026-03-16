@@ -44,3 +44,9 @@
 </div>
 
 ### Логи и наблюдение:
+<div>
+  <img src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_kibana.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_sentry.png" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_grafana.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_jaegertracing.png" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp;
+</div>
