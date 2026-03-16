@@ -64,6 +64,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilzelenskiy&size_weight=0.5&count_weight=0.5)
 
 ## :mortar_board: Мое образование:
+<div>
+<img src="https://github.com/daniilzelenskiy/Daniel-Zelenskiy/blob/main/07ddd8bed5c.png" title="Сертификат" alt="Сертификат" width="500"/>&nbsp;
+</div>
 
 ## :construction_worker: Стажировался и практиковался:
 <div>
