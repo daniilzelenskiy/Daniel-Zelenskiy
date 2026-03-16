@@ -50,3 +50,11 @@
   <img src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_grafana.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_jaegertracing.png" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp;
 </div>
+
+### Работа с базами данных:
+<div>
+  <img src="https://camo.githubusercontent.com/8fb95c1c640d69850f5d2a33a5a2219a6230221f84375e03e8ae514a6bbea659/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d657461626173652e737667" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/aa3312a269862ed0b24b1b0e6505b857911ae31ab5eeb049cd0ca94a0aa52651/68747470733a2f2f696d616765732e69636f6e2d69636f6e732e636f6d2f313439352f504e472f3531322f646265617665725f3130333139302e706e67" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+</div>
